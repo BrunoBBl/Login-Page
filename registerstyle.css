@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+
+.btn-dark {
+    height: 45px;
+    transition: 0.1s ease;
+}
+
+.btn-dark:hover {
+    height:49px;
+}
